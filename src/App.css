@@ -24,3 +24,9 @@ span {
   padding: 4rem 2rem;
   border-radius: 12px;
 }
+
+input {
+  height: 40px;
+  width: 160px;
+  border-radius: 6px;
+}
